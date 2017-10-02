@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\GitHub\\11938-GPA-EAGLES\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\GitHub\\11938-GPA-EAGLES\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\11938-GPA-EAGLES\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\main_menu.xml",
+        "source": "C:\\Users\\amenx\\.android\\build-cache\\199a27768abcbc0b5b620e4909ca03d77ae09e83\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\11938-GPA-EAGLES\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\menu_server.xml",
+        "source": "C:\\Users\\amenx\\.android\\build-cache\\99ed0a118e440a87aa1e722d22eec7a76f53c059\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\11938-GPA-EAGLES - TEST CODE\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\GitHub\\11938-GPA-EAGLES - TEST CODE\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\11938-GPA-EAGLES - TEST CODE\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\menu_server.xml",
+        "source": "C:\\Users\\amenx\\.android\\build-cache\\0c3f374c82706ac41049f0203ddf68ec54b07a15\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\11938-GPA-EAGLES - TEST CODE\\FtcRobotController\\build\\intermediates\\res\\merged\\release\\menu\\main_menu.xml",
+        "source": "C:\\Users\\amenx\\.android\\build-cache\\3d1dcbab305a91e49a56c6927aae2b5372698fa7\\output\\res\\menu\\main_menu.xml"
+    }
+]

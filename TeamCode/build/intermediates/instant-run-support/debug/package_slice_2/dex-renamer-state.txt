@@ -1,0 +1,4 @@
+#Thu Sep 21 16:46:40 PDT 2017
+base.0=C\:\\GitHub\\11938-GPA-EAGLES\\TeamCode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\GitHub\\11938-GPA-EAGLES\\TeamCode\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

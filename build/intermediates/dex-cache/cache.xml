@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\b938e885db445fdb94537d51e1e859c5d2440f21\output\jars\libs\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\gson-2.8.0_d7862c26f6b90ccbcb4f97f8009698bbf597fcc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\bf36c07f02ae8d9ee9b3d4c21d836790ef05d1d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2abba0621a5319232804767218216568263aa37">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_40b57d043f6d8f7b4ecf1ac71efab28a59854911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\GitHub\11938-GPA-EAGLES\FtcRobotController\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36c4a03edd303d6d887f388878517a959cd0f64c">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_6aa94da78c0eb0c7747e35e334684bd398eccf6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\199a27768abcbc0b5b620e4909ca03d77ae09e83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9da82f9829b6cafb8407989729481220ca06c905">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_0582b43ce8ff94e0fd4da7a2a8aab0a0ffa2ec6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\b938e885db445fdb94537d51e1e859c5d2440f21\output\jars\libs\javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\javac_ab24997d2eba68c0474f9e4ba1ce5ff51b040112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\b938e885db445fdb94537d51e1e859c5d2440f21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e259d01a014f392930432e85cc1ac9bf807a92df">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_3bd1d72d899d8419be357eb2d5398d720db9467d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\b938e885db445fdb94537d51e1e859c5d2440f21\output\jars\libs\gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\gson-extras-0.2.1_c2fd0ffdc3bcd6fa8aa845fe6ad2f9eaa22ec631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\285f9d2e4a64c0eae492b8d385011ba81409e3ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96cbbea552fe9bf3c56540c7e4912eb5cf72301e">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_73afd55bb016bd6c8bdc859e6771fb7e5d87f156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\b938e885db445fdb94537d51e1e859c5d2440f21\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\Vuforia_445272e21c42a8209e9f3461aa7304c40a037676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\9eaf477f226b68b9f23756fae44bc3d6547542c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_d9c3216bc1b541313ebb000b10cf33c0e042a421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\b938e885db445fdb94537d51e1e859c5d2440f21\output\jars\libs\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_ca1f33a0fe715a460add4c29e63421add446cc2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\99ed0a118e440a87aa1e722d22eec7a76f53c059\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75bdc736b17d8f39d246beac357cb3a0e007fcfa">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_d4a9dd7d7c541826d5b5cec7870bcf72a4098778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amenx\.android\build-cache\e26b38f31f3cbf379407cf74ca295242ab451cbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="C:\GitHub\11938-GPA-EAGLES\TeamCode\build\intermediates\pre-dexed\debug\classes_ec3cd4afac976f1ea307ac41b821542bb3fb954c.jar" />
+    </item>
+
+</items>
